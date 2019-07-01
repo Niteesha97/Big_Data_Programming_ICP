@@ -1,0 +1,6 @@
+emp_id|department|lastname|years_with_company|empno|empname|jobtitle|hiredate|salary|annualsalary|deptno|managervalues
+1|engineering|katta|2|20|rajeswari|clerk|december 17 1980|20|1000|24|2
+2|marketing|kamtam|3|23|ritika|ceo|december 17 2018|500|20000|25|3
+3|marketing|pudari|3|21|manisha|clerk|march 23 2017|700|10000|26|4
+4|engineering|kothinti|4|19|prathusha|staff|october 17 2018|400|15000|27|5
+5|engineering|reddy|3|18|lohitha|staff|november 17 2017|600|20000|28|6
